@@ -6,4 +6,5 @@ Long mileage;
 public void move() {
 	System.out.println("move in vehicle class");
 }
+
 }
